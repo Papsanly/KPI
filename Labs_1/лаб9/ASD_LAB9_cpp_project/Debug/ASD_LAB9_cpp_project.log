@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\документы\KPI\ASD\лаб9\ASD_LAB9_cpp_project\Source.cpp(113,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\документы\KPI\ASD\лаб9\ASD_LAB9_cpp_project\Source.cpp(115,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ASD_LAB9_cpp_project.vcxproj -> E:\документы\KPI\ASD\лаб9\ASD_LAB9_cpp_project\Debug\ASD_LAB9_cpp_project.exe
