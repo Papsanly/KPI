@@ -1,0 +1,5 @@
+﻿  main.cpp
+  source.cpp
+E:\Documents\KPI\BP\Labs_2\lab_1\cpp_proj\lab1_2\source.cpp(16,7): warning C4101: 'mode': unreferenced local variable
+  Generating Code...
+  lab1_2.vcxproj -> E:\Documents\KPI\BP\Labs_2\lab_1\cpp_proj\Debug\lab1_2.exe

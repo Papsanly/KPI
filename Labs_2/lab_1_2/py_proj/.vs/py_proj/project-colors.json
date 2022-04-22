@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0357d96b-7042-4772-8e77-08a33706dfe1": {
+      "ProjectGuid": "0357d96b-7042-4772-8e77-08a33706dfe1",
+      "DisplayName": "py_proj",
+      "ColorIndex": 0
+    },
+    "d9aeb6c6-b88b-47e1-9395-77815171ebcc": {
+      "ProjectGuid": "d9aeb6c6-b88b-47e1-9395-77815171ebcc",
+      "DisplayName": "py_proj_2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

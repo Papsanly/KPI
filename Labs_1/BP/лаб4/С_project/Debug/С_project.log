@@ -1,0 +1,3 @@
+﻿  Source.c
+E:\Документы\KPI\BP\Лаб4\С_project\Source.c(21,32): warning C4101: x_3: неиспользованная локальная переменная
+  С_project.vcxproj -> E:\Документы\KPI\BP\Лаб4\С_project\Debug\С_project.exe

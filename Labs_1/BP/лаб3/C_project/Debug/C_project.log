@@ -1,0 +1,3 @@
+﻿  Main.c
+E:\Документы\KPI\BP\Лаб3\C_project\Main.c(20,60): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+  C_project.vcxproj -> E:\Документы\KPI\BP\Лаб3\C_project\Debug\C_project.exe
