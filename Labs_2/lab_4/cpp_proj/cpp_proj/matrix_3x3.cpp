@@ -43,16 +43,23 @@ Matrix3x3 Matrix3x3::operator*(const Matrix3x3& other)
 }
 
 
-Matrix3x3& Matrix3x3::operator++(int notused)
+Matrix3x3 Matrix3x3::operator++(int notused)
 {
+	Matrix3x3 temp = *this;
 	for (int row = 0; row < SIZE; row++)
 		for (int col = 0; col < SIZE; col++)
-			elements[row][col]++;
-	return *this;
+			++elements[row][col];
+	return temp;
 }
 
 
-void Matrix3x3::show(std::string message)
+int Matrix3x3::get_element(int row, int col)
+{
+	return elements[row][col];
+}
+
+
+void Matrix3x3::show(std::string message) const
 {
 	unsigned int width_min = std::to_string(MIN).length();
 	unsigned int width_max = std::to_string(MAX).length();
@@ -68,13 +75,13 @@ void Matrix3x3::show(std::string message)
 }
 
 
-int Matrix3x3::determinate_3x3()
+int Matrix3x3::determinant_3x3()
 {
 	if (SIZE == 3) {
 		int det = 0;
 		int term;
 		for (int col = 0; col < 3; col++) {
-			term = elements[0][col] * determinate_2x2(0, col);
+			term = elements[0][col] * determinant_2x2(0, col);
 			if (col % 2)
 				det -= term;
 			else
@@ -87,7 +94,7 @@ int Matrix3x3::determinate_3x3()
 }
 
 
-int Matrix3x3::determinate_2x2(int crossed_row, int crossed_col)
+int Matrix3x3::determinant_2x2(int crossed_row, int crossed_col)
 {
 	int minor[2][2];
 

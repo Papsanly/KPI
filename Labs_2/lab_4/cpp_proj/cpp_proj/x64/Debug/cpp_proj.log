@@ -1,4 +1,6 @@
-﻿  matrix_3x3.cpp
-E:\Documents\KPI\BP\Labs_2\lab_4\cpp_proj\cpp_proj\matrix_3x3.cpp(57,55): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
-E:\Documents\KPI\BP\Labs_2\lab_4\cpp_proj\cpp_proj\matrix_3x3.cpp(58,55): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+﻿  main.cpp
+  matrix_3x3.cpp
+E:\Documents\KPI\BP\Labs_2\lab_4\cpp_proj\cpp_proj\matrix_3x3.cpp(64,55): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\Documents\KPI\BP\Labs_2\lab_4\cpp_proj\cpp_proj\matrix_3x3.cpp(65,55): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating Code...
   cpp_proj.vcxproj -> E:\Documents\KPI\BP\Labs_2\lab_4\cpp_proj\x64\Debug\cpp_proj.exe

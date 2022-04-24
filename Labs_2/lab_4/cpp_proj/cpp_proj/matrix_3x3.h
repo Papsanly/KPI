@@ -24,9 +24,12 @@ private:
 
 protected:
 
-	int determinate_2x2(int row, int col);
+	int determinant_2x2(int row, int col);
 
 public:
+
+	// Element getter
+	int get_element(int row, int col);
 
 	// Constructors
 	Matrix3x3(); // Default
@@ -37,11 +40,11 @@ public:
 	Matrix3x3 operator*(const Matrix3x3& other);
 
 	// Operator++ overloading for incrementing all matrix elements
-	Matrix3x3& operator++(int notused);
+	Matrix3x3 operator++(int notused);
 
 	// Find matrix determinate
-	int determinate_3x3();
+	int determinant_3x3();
 
 	// Output matrix elements to screen
-	void show(std::string message);
+	void show (std::string message) const;
 };

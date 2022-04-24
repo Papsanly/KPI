@@ -47,13 +47,12 @@ int main()
 	std::cout << "<-------------------------------------------------------------------------->\n";
 	
 	// Using operator++ overloading
-	M3++;
-	M3.show("Matrix M3 after incrementation using operator++ overloading:\n");
+	M3++.show("Matrix M3 after incrementation using operator++ overloading:\n");
 
 	std::cout << "<-------------------------------------------------------------------------->\n";
 	
 	// Finding determinate with class method if possible
-	int det = M3.determinate_3x3();
+	int det = M3.determinant_3x3();
 	std::cout << "Determinate of matrix M3: " << det << "\n\n";
 	
 	std::cout << "<======================================================================================>\n";
