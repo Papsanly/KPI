@@ -2,6 +2,7 @@
 #include <windows.h>
 #include <string>
 
+
 SquareMatrix::SquareMatrix(int size) : size(size)
 {
 	for (int row = 0; row < size; row++) {

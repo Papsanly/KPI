@@ -25,7 +25,7 @@ int main()
 	}
 	out_authors_file(filename1, "Author's books:", 1);
 	out_authors_file(filename2, "Author's books written in the last 4 years:", 1);
-	out_authors_file(filename1, "Author's books written more than 5 years after writing", 0);
+	out_authors_file(filename1, "Author's books published more than 5 years after writing", 0);
 
 	system("pause");
 }

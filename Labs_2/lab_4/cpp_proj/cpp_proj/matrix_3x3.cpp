@@ -43,7 +43,7 @@ Matrix3x3 Matrix3x3::operator*(const Matrix3x3& other)
 }
 
 
-Matrix3x3 Matrix3x3::operator++(int notused)
+Matrix3x3 Matrix3x3::operator++(int not_used)
 {
 	Matrix3x3 temp = *this;
 	for (int row = 0; row < SIZE; row++)

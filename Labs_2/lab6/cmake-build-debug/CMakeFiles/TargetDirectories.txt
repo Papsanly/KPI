@@ -1,0 +1,3 @@
+E:/Documents/KPI/BP/Labs_2/lab5/cmake-build-debug/CMakeFiles/lab5.dir
+E:/Documents/KPI/BP/Labs_2/lab5/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Documents/KPI/BP/Labs_2/lab5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

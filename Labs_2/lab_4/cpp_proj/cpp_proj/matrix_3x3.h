@@ -40,7 +40,7 @@ public:
 	Matrix3x3 operator*(const Matrix3x3& other);
 
 	// Operator++ overloading for incrementing all matrix elements
-	Matrix3x3 operator++(int notused);
+	Matrix3x3 operator++(int not_used);
 
 	// Find matrix determinate
 	int determinant_3x3();
