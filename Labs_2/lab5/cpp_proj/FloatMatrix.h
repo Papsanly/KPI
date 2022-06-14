@@ -13,7 +13,7 @@ public:
         }
         this->n = n;
         this->m = m;
-}
+    }
 
-	FloatMatrix() {}
+    FloatMatrix() {}
 };

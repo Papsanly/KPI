@@ -1,3 +1,7 @@
 # ninja log v5
 294	373	6768325027266381	archive.exe	261b58f7e6ceb34d
 2	294	6768325026495684	CMakeFiles/archive.dir/main.cpp.obj	96afaf0946d502a4
+2	383	6769005892500434	CMakeFiles/archive.dir/main.cpp.obj	de1f98074ce502bf
+383	617	6769005894829651	archive.exe	261b58f7e6ceb34d
+2	266	6769006895655939	CMakeFiles/archive.dir/main.cpp.obj	de1f98074ce502bf
+266	337	6769006896366585	archive.exe	261b58f7e6ceb34d
