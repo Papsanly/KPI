@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f0d9790-5df8-4b21-8167-8fa1b00f73ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/.idea/archive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/.vs/CMake Overview" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/.vs/ProjectSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/.vs/cpp_proj/v17/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/.vs/cpp_proj/v17/Browse.VC.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/.vs/slnx.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/.cmake/api/v1/query/client-MicrosoftVS/query.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/.cmake/api/v1/reply/cache-v2-2418e8c6fd21461a8e4f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/.cmake/api/v1/reply/cmakeFiles-v1-abda96410dc6a21832dc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/.cmake/api/v1/reply/codemodel-v2-7ff487438c26c95f1f4d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/.cmake/api/v1/reply/index-2022-06-13T19-29-19-0124.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/.cmake/api/v1/reply/target-archive-Debug-8b630ea481687c9f2140.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/.cmake/api/v1/reply/toolchains-v1-83dffde9eb9be0730125.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/CMakeFiles/3.22.22022201-MSVC_2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/CMakeFiles/3.22.22022201-MSVC_2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/CMakeFiles/3.22.22022201-MSVC_2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/CMakeFiles/3.22.22022201-MSVC_2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/CMakeFiles/3.22.22022201-MSVC_2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/CMakeFiles/3.22.22022201-MSVC_2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/CMakeFiles/3.22.22022201-MSVC_2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/CMakeFiles/3.22.22022201-MSVC_2/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/CMakeFiles/3.22.22022201-MSVC_2/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/CMakeFiles/3.22.22022201-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/CMakeFiles/3.22.22022201-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/CMakeFiles/3.22.22022201-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/CMakeFiles/ShowIncludes/foo.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/CMakeFiles/ShowIncludes/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/CMakeFiles/ShowIncludes/main.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/VSInheritEnvironments.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp_proj/out/build/x64-Debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/py_proj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/float_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/int_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab6/cpp_proj/.idea/lab5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/.idea/lab5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/Node.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/Tree.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/Tree.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/.cmake/api/v1/reply/cache-v2-e30c099bdc05e6a9a99b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-986fafb34b3a2e1014ed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-d1af0ec95a688a9fea92.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/.cmake/api/v1/reply/index-2022-06-09T12-14-47-0224.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/.cmake/api/v1/reply/target-lab5-Debug-64b6d0d7a1609718e942.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-aa3c9cbd49ae913ebafc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/CMakeFiles/3.22.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/CMakeFiles/lab5.dir/Node.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/CMakeFiles/lab5.dir/Tree.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/CMakeFiles/lab5.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/cmake-build-debug/lab5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/main.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AXGeqbY7Xxs3DMhrLSWEIvo6J9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_proj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f0d9790-5df8-4b21-8167-8fa1b00f73ca" name="Changes" comment="" />
+      <created>1655148616337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655148616337</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
