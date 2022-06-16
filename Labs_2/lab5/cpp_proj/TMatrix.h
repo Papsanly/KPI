@@ -6,8 +6,18 @@ using std::cout;
 
 template <typename T>
 class TMatrix {
+
 public:
-	TMatrix() {}
+
+    TMatrix() = default;
+
+    TMatrix(int n, int m): n(n), m(m) {
+        matrix = new T* [n];
+        for (int i = 0; i < n; i++)
+            matrix[i] = new T [m];
+    }
+
+    virtual void fillMatrix() {};
 
 	T getAverage() {
 		T counter = 0;
@@ -38,7 +48,9 @@ public:
 	}
 
 protected:
-    T** matrix;
-    int n;
-    int m;
+
+    T **matrix;
+    int n{};
+    int m{};
+
 };

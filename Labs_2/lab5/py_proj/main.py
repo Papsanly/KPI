@@ -12,9 +12,17 @@ def main():
     ints = [IntMatrix(rows, cols) for _ in range(size)]
     floats = [FloatMatrix(rows, cols) for _ in range(size)]
 
-    for int_m, float_m in zip(ints, floats):
+    print('Matrices:')
+    for i, (int_m, float_m) in enumerate(zip(ints, floats)):
+        print(f'\n{i + 1} (int):')
+        int_m.fill()
         int_m.increase(increase_value)
+        int_m.print()
+
+        print(f'\n{i + 1} (float):')
+        float_m.fill()
         float_m.decrease(decrease_value)
+        float_m.print()
 
     min_avrg = rows * cols * 10
     min_idx = 0
@@ -31,7 +39,7 @@ def main():
             isminint = False
             min_idx = i
 
-    print(f'Min value: {round(min_avrg, 3)}, matrix:')
+    print(f'\nMin value: {round(min_avrg, 3)}. Matrix ({min_idx + 1}):')
 
     if isminint:
         ints[min_idx].print()

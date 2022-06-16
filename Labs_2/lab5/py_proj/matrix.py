@@ -1,9 +1,16 @@
+from abc import abstractmethod
+
+
 class Matrix:
 
     def __init__(self, n, m):
         self.matrix = []
         self.m = n
         self.n = m
+
+    @abstractmethod
+    def fill(self):
+        pass
 
     def get_average(self):
         counter = 0
